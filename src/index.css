@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("/public/bg.f3f682cad15349233b9f.png");
+  background-repeat: no-repeat;
+  background-size:cover; 
+  background-position:center;
+  min-height:100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+i{
+  cursor: pointer;
 }
