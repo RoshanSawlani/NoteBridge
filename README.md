@@ -1,5 +1,5 @@
 NoteBridge 📘
-iNotebook is a cloud storage notebook application built with the MERN stack (MongoDB Atlas, Express.js, React, Node.js). It provides a secure and user-friendly platform for storing and organizing your notes in the cloud.
+NoteBridge is a cloud storage notebook application built with the MERN stack (MongoDB Atlas, Express.js, React, Node.js). It provides a secure and user-friendly platform for storing and organizing your notes in the cloud.
 
 Features 🚀
 User Authentication: Secure user authentication using bcryptjs, jsonwebtoken, and express-validator.
