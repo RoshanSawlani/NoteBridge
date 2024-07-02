@@ -1,3 +1,28 @@
+NoteBridge 📘
+iNotebook is a cloud storage notebook application built with the MERN stack (MongoDB Atlas, Express.js, React, Node.js). It provides a secure and user-friendly platform for storing and organizing your notes in the cloud.
+
+Features 🚀
+User Authentication: Secure user authentication using bcryptjs, jsonwebtoken, and express-validator.
+Cloud Storage: Store and manage your notes securely in the cloud.
+Responsive Design: Bootstrap and React for a responsive and mobile-friendly user interface.
+Routing: Utilizes react-router-dom for client-side routing.
+
+Tech Stack 💻
+Frontend:
+React
+Bootstrap
+
+Backend:
+Node.js
+Express.js
+MongoDB Atlas with Mongoose
+
+Middleware:
+Bcryptjs
+Cors
+Express-validator
+Jsonwebtoken
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
